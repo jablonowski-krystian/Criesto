@@ -1,6 +1,6 @@
 <h1>Hello there! <img src="https://cdn-icons-png.flaticon.com/512/3873/3873296.png" width="32"/></h1>
 <p> 
-I'm Krystian, Fullstack Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330474.png" width="16"/> Poland. I'm currently working at 4o'Clock Interactive. 
+I'm Krystian, Fullstack Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330474.png" width="16"/> Poland. I'm currently working at Media4U. 
 </p>
 <h3>Things I code with</h3>
 <p>
